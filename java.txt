@@ -1,0 +1,20 @@
+I understand that you are eager to type some code in your editor and run it to see your first Java application in action! Do not worry, your expectation will be fulfilled by the end of this tutorial. But before we move on, I would like to do through several elements that you need to know to fully understand what you are doing.
+
+Even if you are familiar with some other programming language, know about compilation, know what an executable file is you may be interested in the following because Java works in a way that differs from C or C++.
+There are several steps that you need to follow to create a Java application. This tutorial shows you how to create a very simple Java application. If you need to create an enterprise application, the creation process is more complex but at its core you will find these simple steps.
+
+The first of these steps is to write some Java code in a text editor.
+
+Then this code has to be transformed to another format, which can be executed by your computer. This transformation is conducted by a special piece of software called a compiler. Some languages do not have a compiler; Java does. Every compiler is specific to a language.
+
+The file produced by a compiler is often called a binary file or an executable file. Whereas you can read a source code and understand it, binary or executable files are not meant to be read by a human person. Only your computer can make sense of it.
+
+This code contains special binary codes called byte code. This is a technical term that you may come across. The precise description of what is this byte code is beyond the scope of this tutorial.
+
+Compiling some code may fail; your code has to be correct for the compiler to produce an executable version of it. Do not worry, this page gives you the code you are going to compile. All you need to do is copy it and paste it in your text editor.
+
+Once the compiler produced the binary file that you need, you can execute this binary file, that will your program.The first step you need to know is that the Java code you are writing is saved in plain text files. In this tutorial, your application will be written in a single text file. Larger applications may require thousands of such files.
+
+Java is an object-oriented language. If this technical term does not mean anything to you, do not worry, all you need to remember at this point is that all the code you write must be held in a Java class.
+
+A Java class is created by a special declaration in a text file. Just copy the following code and paste it in your text editor. Congratulation! You have created your first Java class!
